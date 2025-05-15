@@ -21,9 +21,9 @@ ___
 ### `Question 1`: [WAP in JAVA to create a class named Rectangle with two data members length and width(both of type float).Include methods to calculate the area and perimeter. Create two Objects in main() and set their attributes using parameterized constructor and print their area and perimeter.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%202/Assignment2Q1.java)
 ### `Question 2`: [WAP in JAVA to create a class named BankAccount with attributes accountNumber (String type) and balance (float). Use public methods to deposit and withdraw money. Use constructor to initialize objects.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%202/Assignment2Q2.java)
 ### `Question 3`: WAP in JAVA to create a class named Student with attributes
-    ####  •	name (type String)
-    ####  •	rollNumber (type int)
-    ####  •	grade (type char)
+          •	name (type String)
+          •	rollNumber (type int)
+          •	grade (type char)
 #### [Implement multiple Constructors: a default constructor, a constructor that takes name and rollNumber and a constructor that takes all attributes. Create different Student Objects(3) using different constructor and print their details using method.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%202/Assignment2Q3.java)
 ### `Question 4`: [WAP in JAVA to create a class named Calculator with overloaded method named add(). The add() method should be able to accept two integers, two floats or an integer and a float as parameters and return the sum accordingly.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%202/Assignment2Q4.java)
 ### `Question 5`: [WAP in JAVA to create a class named Counter with a class variable count (static integer) that keeps track of the number of counter objects created. Also include a static method to return the current value of count.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%202/Assignment2Q5.java)
