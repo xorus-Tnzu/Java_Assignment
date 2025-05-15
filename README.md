@@ -54,7 +54,7 @@ ___
 
 ### `Question 6`: [WAP in JAVA that takes a string as input from user. Pass the String to a method that reverses the String. Print the reversed String in the main method.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%203/Assignment3Q6.java)
 
-### `Question 7`: [WAP in JAVA that takes user's name and age as input using Scanner class. Then print a formatted output such as >"Hello[name]! You are [age] years old".]()
+### `Question 7`: [WAP in JAVA that takes user's name and age as input using Scanner class. Then print a formatted output such as `"Hello[name]! You are [age] years old"`.]()
 
 ### `Question 8`: [WAP in JAVA that uses StringBuffer class to perform the following operations on a String ---](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%203/Assignment3Q8.java)
                     1.	Append a string to an existing String.
