@@ -64,3 +64,22 @@ ___
 ___
 
 ## ASSIGNMENT IV QUESTIONS:
+
+### `Question 1`: [WAP in Java to create a class Animal with attributes like name and age.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%204/Assignment4Q1.java)
+                  a) Create a subclass Dog that inherits class Animal and also adds on attribute like breed. 
+                     Implement methods to display information about both animal class and Dog class.
+                  b) Create a class Puppy that inherits class Dog. Add an attribute specific to puppies (like milkteeth). 
+                     Implement methods to display information about puppies including inherited attributes.
+                  c) In the animal class, create a method makeSound(). Override this method in both Dog and Puppy class to produce different sounds.
+
+
+### `Question 2`: [WAP in Java to create an abstract class Shape with an abstract method calculateArea(). Create Circle, Rectangle, and Triangle that inherits from class Shape and implement the calculateArea() method.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%204/Assignment4Q2.java)
+
+### `Question 3`: [WAP in JAVA to make a menu driven calculator that can perform Addition, Subtraction ,Multiplication and Division Operations of two numbers.Use try-catch block as required. All inputs must be taken using command line argument.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%204/Assignment4Q3.java)
+
+### `Question 4`: [WAP in JAVA to find GCD of two integers using RECURSION. Use command line argument for user input.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%204/Assignment4Q4.java)
+
+___
+
+## ASSIGNMENT V QUESTIONS:
+
