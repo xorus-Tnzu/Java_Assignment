@@ -83,3 +83,22 @@ ___
 
 ## ASSIGNMENT V QUESTIONS:
 
+
+### `Question 1`: [WAP in JAVA to check whether a year is leap year or not.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%205/Assignment5Q1.java)
+
+### `Question 2`: [WAP in JAVA to create a class called Box having attributes length, width, and height. Use method vol() to compute volume of a Box object. Use constructor for initialization of object.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%205/Assignment5Q2.java)
+
+### `Question 3`: [WAP in JAVA to print multiplication table of an integer between 1 and 10. In case of invalid input, the program keeps asking user for a valid input.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%205/Assignment5Q3.java)
+
+### `Question 4`: [W.A.P in Java to find largest and smallest elements from a 1D integer array.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%205/Assignment5Q4.java)
+
+### `Question 5`: [W.A.P in Java to find an element from a 1D integer array (linear/sequential search).](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%205/Assignment5Q5.java)
+
+___
+
+## ASSIGNMENT VI QUESTIONS:
+
+### `Question 1`: [WAP in Java to find sum of all elements in an integer 1D array using recursion.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%206/Assignment6Q1.java)
+
+___
+___
