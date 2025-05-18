@@ -99,7 +99,7 @@ ___
 ## ASSIGNMENT VI QUESTIONS:
 
 ### `Question 1`: [WAP in Java to find sum of all elements in an integer 1D array using recursion.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%206/Assignment6Q1.java)
-### `Question 2`: [Write a program in Java, to find maximum clement in an aray using recursion.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%206/Assignment6Q2.java)
+### `Question 2`: [Write a program in Java to find maximum element in an array using recursion.](https://github.com/xorus-Tnzu/Java_Assignment/blob/main/Assignment%206/Assignment6Q2.java)
 
 ___
 ___
