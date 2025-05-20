@@ -20,7 +20,7 @@ class Assignment1Q2
 		
 		if(num<0)
 		{
-		 	System.out.println("Factorial is noy defined for negative numbers.");
+		 	System.out.println("Factorial is not defined for negative numbers.");
 		}
 		else 
 		{
