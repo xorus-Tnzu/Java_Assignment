@@ -16,7 +16,7 @@ public class Assignment4Q4
 	{
         	if (args.length != 2) 
 		{
-            		System.out.println("Usage: java Assignment4Q4 <num1> <num2>");
+            		System.out.println("Usage: Finding gcd of <num1> <num2>");
             		return;
         	}
 
@@ -45,7 +45,7 @@ OUTPUT:
 H:\Java_Assignment\Assignment_4>javac Assignment4Q4.java
 
 H:\Java_Assignment\Assignment_4>java Assignment4Q4
-Usage: java Assignment4Q4 <num1> <num2>
+Usage: Finding gcd of <num1> <num2>
 
 H:\Java_Assignment\Assignment_4>java Assignment4Q4 18 48
 GCD(18,48) = 6
